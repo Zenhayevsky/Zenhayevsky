@@ -1,9 +1,9 @@
 <h1 align="center"> Wellcome! </h1>
 
 My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional portfolio with some simple examples of my work.
-You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/zenhayevsky-crmservices/).
 I am a software developer with more than 2 years of experience in web development. I'm technology and people enthusiastic and experienced in building amazing applications.
 Interested in learning about leadership and I'm an avid developer for clean architecture and clean code.
+You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/zenhayevsky-crmservices/).
 
 ![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=dracula&hide=contribs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/Zenhayevsky/github-readme-stats)
