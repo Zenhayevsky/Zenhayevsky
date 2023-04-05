@@ -1,4 +1,4 @@
-<h1 align="center"> Wellcome!👋 </h1>
+<h1 align="center"> Wellcome! </h1>
 
 My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional portfolio with some simple examples of my work.
 You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/zenhayevsky-crmservices/)
