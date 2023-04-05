@@ -1,8 +1,12 @@
 ### Hi there 👋
+My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional portfolio with some simple examples of my work.
+
 ![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues,contribs)
 
-
+## TOP PROGRAMMING LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
+
+## Important Repositories/Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem)](https://github.com/Zenhayevsky/productsistem)
 
