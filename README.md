@@ -6,15 +6,15 @@ Interested in learning about leadership and I'm an avid developer for clean arch
 You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/zenhayevsky-crmservices/).
 
 ![Zenhayevsky's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=dracula&hide=contribs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/Zenhayevsky/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/Zenhayevsky/github-readme-stats)
 
 ## Important Repos/Projects]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Breweries-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/Breweries-ReactJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Productsistem-Vue&theme=dracula)](https://github.com/Zenhayevsky/Productsistem-Vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Qcredito-Angular&theme=dracula)](https://github.com/Zenhayevsky/Qcredito-Angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Python-Flask&theme=dracula)](https://github.com/Zenhayevsky/Python-Flask)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=DolarPriceToday-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/DolarPriceToday-ReactJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ProductsSale-Angular&theme=dracula)](https://github.com/Zenhayevsky/ProductsSale-Angular)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=Breweries-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/Breweries-ReactJS)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=Productsistem-Vue&theme=dracula)](https://github.com/Zenhayevsky/Productsistem-Vue)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=Qcredito-Angular&theme=dracula)](https://github.com/Zenhayevsky/Qcredito-Angular)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=Python-Flask&theme=dracula)](https://github.com/Zenhayevsky/Python-Flask)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=DolarPriceToday-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/DolarPriceToday-ReactJS)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=ProductsSale-Angular&theme=dracula)](https://github.com/Zenhayevsky/ProductsSale-Angular)
 
 ## Skills
 ![typscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
