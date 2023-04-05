@@ -4,7 +4,7 @@ My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional po
 You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/zenhayevsky-crmservices/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/Zenhayevsky/github-readme-stats)
-![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues,contribs)
+![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues)
 
 ## Important Repositories/Projects
 
