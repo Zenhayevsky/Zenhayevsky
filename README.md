@@ -8,7 +8,7 @@ You can find my linkedin profile here [<img src='https://img.shields.io/badge/Li
 ![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=dracula&hide=contribs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/Zenhayevsky/github-readme-stats)
 
-## Important Repositories/Projects
+## Important Repos/Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem&theme=dracula)](https://github.com/Zenhayevsky/productsistem)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=dracula)](https://github.com/Zenhayevsky/PythonFlask)
