@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenhayevsky)](https://github.com/Zenhayevsky/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zenhayevsky)](https://github.com/Zenhayevsky/productsistem)
+[![Zenhayevsky's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zenhayevsky)](https://github.com/Zenhayevsky/productsistem)
 
 
 <!--
