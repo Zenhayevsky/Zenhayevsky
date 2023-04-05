@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues&hide=contribs)
+![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues,contribs)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
