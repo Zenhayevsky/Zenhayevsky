@@ -108,14 +108,14 @@ c++
 html
 ![Vue](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Zenhayevsky's GitHub stats](https://github-![Vue](readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues,contribs)
+![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues,contribs)****
 
 ## TOP PROGRAMMING LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
 
 ## ferramentas  IDE 
 visual studio
-https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Vue](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 vscode
 ![Vue](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
