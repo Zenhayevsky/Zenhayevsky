@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional portfolio with some simple examples of my work.
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zenhayevsky
+![typscript](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zenhayevsky)
 
 ## Skills
 ![typscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
