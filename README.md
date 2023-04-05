@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional portfolio with some simple examples of my work.
-You can find my linkedin in thi link [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/zenhayevsky-crmservices/)
+You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/zenhayevsky-crmservices/)
 
 ## TOP PROGRAMMING LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
