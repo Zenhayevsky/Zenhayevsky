@@ -8,17 +8,17 @@ My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional po
 
 ## Important Repositories/Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem)](https://github.com/Zenhayevsky/productsistem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem&theme=cobalt&)](https://github.com/Zenhayevsky/productsistem)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask)](https://github.com/Zenhayevsky/PythonFlask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=cobalt&)](https://github.com/Zenhayevsky/PythonFlask)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=qcredito)](https://github.com/Zenhayevsky/qcredito)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=qcredito&theme=cobalt&)](https://github.com/Zenhayevsky/qcredito)
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ChuckNorrisJokes-ReactJs)](https://github.com/Zenhayevsky/ChuckNorrisJokes-ReactJs)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ChuckNorrisJokes-ReactJs&theme=cobalt&)](https://github.com/Zenhayevsky/ChuckNorrisJokes-ReactJs)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolar_price_every_day)](https://github.com/Zenhayevsky/dolar_price_every_day)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolar_price_every_day&theme=cobalt&)](https://github.com/Zenhayevsky/dolar_price_every_day)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=breweries)](https://github.com/Zenhayevsky/breweries)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=breweries&theme=cobalt&)](https://github.com/Zenhayevsky/breweries)
     
 <!--
 
