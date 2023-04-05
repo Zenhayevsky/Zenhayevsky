@@ -12,7 +12,7 @@ You can find my linkedin profile here [<img src='https://img.shields.io/badge/Li
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Breweries-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/Breweries-ReactJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Productsistem-Vue&theme=dracula)](https://github.com/Zenhayevsky/Productsistem-Vue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Qcredito-Angular&theme=dracula)](https://github.com/Zenhayevsky/Qcredito-Angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Python_Flask&theme=dracula)](https://github.com/Zenhayevsky/Python_Flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Python-Flask&theme=dracula)](https://github.com/Zenhayevsky/Python-Flask)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=DolarPriceToday-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/DolarPriceToday-ReactJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ProductsSale-Angular&theme=dracula)](https://github.com/Zenhayevsky/ProductsSale-Angular)
 
