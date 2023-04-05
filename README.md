@@ -1,10 +1,8 @@
 ### Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem)](https://github.com/Zenhayevsky/productsistem)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenhayevsky)](https://github.com/Zenhayevsky/github-readme-stats)
-
-[![Zenhayevsky's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zenhayevsky)](https://github.com/Zenhayevsky/productsistem)
-
 
 <!--
 
