@@ -10,7 +10,7 @@ You can find my linkedin profile here [<img src='https://img.shields.io/badge/Li
 
 ## Important Repos/Projects]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem&theme=dracula)](https://github.com/Zenhayevsky/productsistem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=dracula)](https://github.com/Zenhayevsky/PythonFlask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=dracula)](https://github.com/Zenhayevsky/Python_Flask)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=qcredito&theme=dracula)](https://github.com/Zenhayevsky/qcredito)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ChuckNorrisJokes-ReactJs&theme=dracula)](https://github.com/Zenhayevsky/ChuckNorrisJokes-ReactJs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolar_price_every_day&theme=dracula)](https://github.com/Zenhayevsky/dolar_price_every_day)
