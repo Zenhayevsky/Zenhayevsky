@@ -3,9 +3,6 @@
 My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional portfolio with some simple examples of my work.
 You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/zenhayevsky-crmservices/)
 
-## TOP PROGRAMMING LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
-
 ## Skills
 ![typscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -30,6 +27,18 @@ You can find my linkedin profile here [<img src='https://img.shields.io/badge/Li
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
+![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues,contribs)****
+
+## Important Repositories/Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem&theme=cobalt&)](https://github.com/Zenhayevsky/productsistem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=cobalt&)](https://github.com/Zenhayevsky/PythonFlask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=qcredito&theme=cobalt&)](https://github.com/Zenhayevsky/qcredito)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ChuckNorrisJokes-ReactJs&theme=cobalt&)](https://github.com/Zenhayevsky/ChuckNorrisJokes-ReactJs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolar_price_every_day&theme=cobalt&)](https://github.com/Zenhayevsky/dolar_price_every_day)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=breweries&theme=cobalt&)](https://github.com/Zenhayevsky/breweries)
+
 ## Workflow Platforms, IDE and tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![pyshcarm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -47,17 +56,6 @@ You can find my linkedin profile here [<img src='https://img.shields.io/badge/Li
 ## Software Metrics and Analytics
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
-
-![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=issues,contribs)****
-
-## Important Repositories/Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem&theme=cobalt&)](https://github.com/Zenhayevsky/productsistem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=cobalt&)](https://github.com/Zenhayevsky/PythonFlask)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=qcredito&theme=cobalt&)](https://github.com/Zenhayevsky/qcredito)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ChuckNorrisJokes-ReactJs&theme=cobalt&)](https://github.com/Zenhayevsky/ChuckNorrisJokes-ReactJs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolar_price_every_day&theme=cobalt&)](https://github.com/Zenhayevsky/dolar_price_every_day)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=breweries&theme=cobalt&)](https://github.com/Zenhayevsky/breweries)
     
 <!--
 
