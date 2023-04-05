@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=github-readme-stats)](https://github.com/Zenhayevsky/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask)](https://github.com/Zenhayevsky/PythonFlask)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zenhayevsky/github-readme-stats)
 
