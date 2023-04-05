@@ -3,17 +3,17 @@
 My name is Zenhayevsky Carolina Solorzano Acevedo and this is my professional portfolio with some simple examples of my work.
 You can find my linkedin profile here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/zenhayevsky-crmservices/)
 
-![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=cobalt&hide=contribs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=cobalt)](https://github.com/Zenhayevsky/github-readme-stats)
+![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=dracula&hide=contribs&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/Zenhayevsky/github-readme-stats)
 
 ## Important Repositories/Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem&theme=cobalt&)](https://github.com/Zenhayevsky/productsistem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=cobalt&)](https://github.com/Zenhayevsky/PythonFlask)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=qcredito&theme=cobalt&)](https://github.com/Zenhayevsky/qcredito)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ChuckNorrisJokes-ReactJs&theme=cobalt&)](https://github.com/Zenhayevsky/ChuckNorrisJokes-ReactJs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolar_price_every_day&theme=cobalt&)](https://github.com/Zenhayevsky/dolar_price_every_day)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=breweries&theme=cobalt&)](https://github.com/Zenhayevsky/breweries)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=productsistem&theme=dracula)](https://github.com/Zenhayevsky/productsistem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=PythonFlask&theme=dracula)](https://github.com/Zenhayevsky/PythonFlask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=qcredito&theme=dracula)](https://github.com/Zenhayevsky/qcredito)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=ChuckNorrisJokes-ReactJs&theme=dracula)](https://github.com/Zenhayevsky/ChuckNorrisJokes-ReactJs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolar_price_every_day&theme=dracula)](https://github.com/Zenhayevsky/dolar_price_every_day)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=breweries&theme=dracula)](https://github.com/Zenhayevsky/breweries)
 
 ## Skills
 ![typscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
