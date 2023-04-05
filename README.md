@@ -1,7 +1,14 @@
 ### Hi there 👋
-![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=github-readme-stats)](https://github.com/Zenhayevsky/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenhayevsky)](https://github.com/Zenhayevsky/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zenhayevsky)](https://github.com/Zenhayevsky/github-readme-stats)
+
 
 <!--
+
+![Zenhayevsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenhayevsky&show_icons=true&theme=radical)
 **Zenhayevsky/Zenhayevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
