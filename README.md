@@ -12,9 +12,9 @@ You can find my linkedin profile here [<img src='https://img.shields.io/badge/Li
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Breweries-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/Breweries-ReactJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Productsistem-Vue&theme=dracula)](https://github.com/Zenhayevsky/Productsistem-Vue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Qcredito-Angular&theme=dracula)](https://github.com/Zenhayevsky/Qcredito-Angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=LGPD&theme=dracula)](https://github.com/Zenhayevsky/LGPD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=dolarPrice-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/dolarPrice-ReactJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=Python_Flask&theme=dracula)](https://github.com/Zenhayevsky/Python_Flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=DolarPrice-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/DolarPrice-ReactJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zenhayevsky&repo=LGPD&theme=dracula)](https://github.com/Zenhayevsky/LGPD)
 
 ## Skills
 ![typscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
