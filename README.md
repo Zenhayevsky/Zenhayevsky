@@ -14,7 +14,7 @@ You can find my linkedin profile here [<img src='https://img.shields.io/badge/Li
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=Qcredito-Angular&theme=dracula)](https://github.com/Zenhayevsky/Qcredito-Angular)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=Python-Flask&theme=dracula)](https://github.com/Zenhayevsky/Python-Flask)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=DolarPriceToday-ReactJS&theme=dracula)](https://github.com/Zenhayevsky/DolarPriceToday-ReactJS)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=ProductsSale-Angular&theme=dracula)](https://github.com/Zenhayevsky/ProductsSale-Angular)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zenhayevsky&repo=IGS-Employee-Manager&theme=dracula)](https://github.com/Zenhayevsky/IGS-Employee-Manager)
 
 ## Skills
 ![typscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
